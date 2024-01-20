@@ -1,0 +1,31 @@
+Text Based Adventure Game
+
+Game Map:
+
+1 2 3 
+
+4 5 6
+
+7 8 9
+
+
+1 -> NPC(asking riddle)
+
+2 -> Clue1()
+
+8 -> Clue2()
+
+5-> START POINT
+
+7 -> Answering Item
+
+
+Riddle: I’m tall when I’m young, and I’m short when I’m old. What am I?
+Clue 1: "From here, you can see nearly half part of the room in the dim light."
+Clue 2: "You see some wax pieces on the table."
+Answer: A candle
+
+
+
+
+

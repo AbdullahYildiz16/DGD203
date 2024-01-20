@@ -1,0 +1,7 @@
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\bin\Debug\TextBasedAdventureGame.exe.config
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\bin\Debug\TextBasedAdventureGame.exe
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\bin\Debug\TextBasedAdventureGame.pdb
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\obj\Debug\TextBasedAdventureGame.csprojAssemblyReference.cache
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\obj\Debug\TextBasedAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\obj\Debug\TextBasedAdventureGame.exe
+C:\Users\AbdullahYıldız\Desktop\Software Projects\C#\TextBasedAdventureGame\obj\Debug\TextBasedAdventureGame.pdb
