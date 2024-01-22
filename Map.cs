@@ -8,7 +8,7 @@ namespace TextBasedAdventureGame
     {
         int playerHealth = 2;
         public string playerName;
-
+        string riddle = "Riddle: I’m tall when I’m young, and I’m short when I’m old.What am I?";
         List<string> riddleChoices = new List<string>() { "Stick", "Human", "Table", "Candle", "Future"};
 
         string riddleAnswer = "Candle";
@@ -30,6 +30,7 @@ namespace TextBasedAdventureGame
             else if (playerPos.SequenceEqual(npcPos))
             {
                 Console.WriteLine($"Hey {playerName}, I have a riddle for you which will cause your dead if you don't give the true answer!");
+                Console.WriteLine(riddle);
                 WriteTheChoices();
                 Answer();
             } 

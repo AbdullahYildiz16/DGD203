@@ -12,6 +12,7 @@ namespace TextBasedAdventureGame
         int playerHealth = 2;
         string playerName;
 
+        string riddle = "Riddle: I’m tall when I’m young, and I’m short when I’m old.What am I?";
         List<string> riddleChoices = new List<string>("Stick", "Human", "Table");
         string riddleAnswer = "Candle";
 
@@ -52,6 +53,7 @@ namespace TextBasedAdventureGame
                     break;
                 case npcPos:
                     Console.WriteLine($"Hey + {playerName}, I have a riddle for you which will cause your dead if you don't give the true answer!");
+                    Console.WriteLine(riddle);
                     WriteTheChoices();
                     Answer();
                     break;
